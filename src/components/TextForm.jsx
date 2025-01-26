@@ -42,7 +42,7 @@ export default function TextForm(props) {
             <div>
                 <button className="btn btn-primary mx-2" onClick={clickUpHandler}>Convert to Uppercase </button>
                 <button className="btn btn-primary mx-2" onClick={clickLoHandler}>Convert to Lowercase </button>
-                <button className="btn btn-primary mx-2" onClick={clickClearHandler}>Clear </button>
+                <button className="btn btn-primary mx-2" onClick={clickClearHandler}>Clear Text Area</button>
                 <button className="btn btn-primary mx-2" onClick={clickCopyHandler}>Copy Text </button>
 
             </div>
