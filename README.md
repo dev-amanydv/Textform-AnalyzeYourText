@@ -1,4 +1,4 @@
-# Text Editor Web App ✍️
+# Textform - Text Editor Web App ✍️
 
 A simple and powerful **Text Editor Web App** that allows users to manipulate text efficiently. This app provides features like **copying text, word & letter count, uppercase/lowercase conversion, and dark mode** for a better user experience.
 
